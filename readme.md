@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-EchoHeist was developed by team EchoRobbers for BotRush 3.0, organized by the Robotics Club of MNNIT. It's a sentiment analysis system styled after the popular TV show "Money Heist" (La Casa de Papel), designed to monitor and analyze voice recordings to detect emotional states.
+EchoHeist was developed by team EchoRobbers. It's a sentiment analysis system styled after the popular TV show "Money Heist" (La Casa de Papel), designed to monitor and analyze voice recordings to detect emotional states.
 
 ## Key Features
 
