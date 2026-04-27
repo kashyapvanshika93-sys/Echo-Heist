@@ -86,19 +86,18 @@ streamlit run app.py
 
 ## Project Background
 
-This project was developed for BotRush 3.0, a hackathon conducted by the Robotics Club of MNNIT. It combines audio processing, machine learning, and an engaging UI inspired by the Money Heist series to create an interactive voice sentiment analysis system.
+It combines audio processing, machine learning, and an engaging UI inspired by the Money Heist series to create an interactive voice sentiment analysis system.
 
 ## Model Information
 
-The system uses a custom CNN (Convolutional Neural Network) model created by the team members (myself and Abhishek Pandey). The model (`finishing_model.h5`) was trained to classify emotions from audio features by analyzing MFCCs and mel-spectrograms to determine emotional states. The CNN architecture was specifically designed to identify patterns in speech that correlate with different emotional states.
+The system uses a custom CNN (Convolutional Neural Network) model created by the team members (myself and Vanshika Sharma). The model (`finishing_model.h5`) was trained to classify emotions from audio features by analyzing MFCCs and mel-spectrograms to determine emotional states. The CNN architecture was specifically designed to identify patterns in speech that correlate with different emotional states.
 
 ## Team EchoRobbers
 
-- Team members( Me and Abhishek Pandey) who developed this project for BotRush 3.0 competition with a Money Heist theme
+- Team members( Me and Vanshika Sharma) who developed this project
 
 ## Acknowledgments
 
-- The Robotics Club of MNNIT for organizing BotRush 3.0
 - The creators of the libraries used in this project
 - "La Casa de Papel" for the inspirational theme
 
